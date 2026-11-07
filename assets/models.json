@@ -1,0 +1,89 @@
+{
+  "greedy_a": {
+    "joints": [
+      0,
+      1,
+      16,
+      17,
+      18,
+      19
+    ],
+    "key": "8c5b815d9545b260dc08a088cf8733fffbe9b386585abb537717c09f0c143d16",
+    "source_checkpoint": "8c5b815d9545b260dc08a088cf8733fffbe9b386585abb537717c09f0c143d16.pt",
+    "seed": 1234,
+    "epochs": 5,
+    "source_sha256": "51319c99b43a1afec1a69f6a35cee4980c0bcfdda0e0b72cd9897cc03e59cba5",
+    "weights_sha256": "4507b29180b3d807427a4cb3f503ffef5f76cbbb3e7d8c704820ace88737dd2c"
+  },
+  "greedy_b_tau_0p25": {
+    "joints": [
+      0,
+      1,
+      2,
+      16,
+      17,
+      18
+    ],
+    "key": "0bc35932c5f8caa9455924a2f806d7beeecf1b3a1a44b4622aacd2e357c104b3",
+    "source_checkpoint": "0bc35932c5f8caa9455924a2f806d7beeecf1b3a1a44b4622aacd2e357c104b3.pt",
+    "seed": 1234,
+    "epochs": 5,
+    "source_sha256": "816129e51b1b9cbd053dd6a50cb85217512eedb7bebe3ba7169b5296e9de3e0c",
+    "weights_sha256": "df5edd01affdec30be876549b04d94ec7d1ecdf6d3819c4db2b7958d1585b5a6"
+  },
+  "random_08": {
+    "joints": [
+      0,
+      2,
+      4,
+      16,
+      18,
+      19
+    ],
+    "key": "d6075f06eff87e65be9bf3cb3f505722563a1b5450e79b9ea28801579992f568",
+    "source_checkpoint": "d6075f06eff87e65be9bf3cb3f505722563a1b5450e79b9ea28801579992f568.pt",
+    "seed": 1234,
+    "epochs": 5,
+    "source_sha256": "2cf9f29aa958b114f30bf1848b55b8fce1afeff147cf7118732afce4d8a35418",
+    "weights_sha256": "374149d1b7dd59c8aee1132016b55080d089ef5dc047a94221df8390ae1b6aa5"
+  },
+  "sip_dip": {
+    "joints": [
+      0,
+      4,
+      5,
+      15,
+      18,
+      19
+    ],
+    "key": "baa43133033ade6a5f6c736ca947affa78f94647b889aa6c6097010361713536",
+    "source_checkpoint": "baa43133033ade6a5f6c736ca947affa78f94647b889aa6c6097010361713536.pt",
+    "seed": 1234,
+    "epochs": 5,
+    "source_sha256": "dc710604f4de9aa3953f2677a011f7720ed0e48a0b7c29933c9fcb0e6bc00bad",
+    "weights_sha256": "140956917548f057d0fe64c954e6e87ca3e0ce794b9db6a12a4ed2c303e43109"
+  },
+  "upper_13": {
+    "joints": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      7,
+      8,
+      9,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "key": "1f33555421635a9d718468f953f8ce5b55baa66f34cd3e0b703d7ee455cb08f3",
+    "source_checkpoint": "1f33555421635a9d718468f953f8ce5b55baa66f34cd3e0b703d7ee455cb08f3.pt",
+    "seed": 1234,
+    "epochs": 5,
+    "source_sha256": "a7c69e000211756eff079c876cb85844c8fb6d2df1e42e368b5f0214d3ad439f",
+    "weights_sha256": "e72ca19aee61ab022967f975e5a8f9017d2e745ba73bd1bb55f136ba59308b95"
+  }
+}

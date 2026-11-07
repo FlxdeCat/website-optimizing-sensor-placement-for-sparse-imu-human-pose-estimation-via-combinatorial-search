@@ -1,0 +1,11 @@
+{
+  "source": "https://github.com/Meshcapade/SMPL_texture_samples",
+  "commit": "c87d871c7498fdc98f3cabb7341b5c85c38debaa",
+  "source_file": "Textured_Mesh_samples/SMPL_male.obj",
+  "source_sha256": "2c323fc8082fb7e8cb9d68fb4d7d1843b0614c8b2a040958ae90669bc6e620de",
+  "license": "CC BY 4.0",
+  "license_url": "https://smpl.is.tue.mpg.de/bodylicense.html",
+  "credit": "SMPL-Body courtesy of the Max Planck Institute for Intelligent Systems; sample distributed by Meshcapade.",
+  "modifications": "Removed UV/normal/material fields; triangulated quads; compressed numeric arrays; added illustrative sensor markers from manually defined anatomical targets. No shape blendshapes.",
+  "marker_qualification": "Illustrative locations, not calibrated mounts or the experiment joint-regressor vertices."
+}
